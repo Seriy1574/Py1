@@ -1,0 +1,1 @@
+﻿# Python part 1
